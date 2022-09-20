@@ -1,3 +1,3 @@
 # TestScenarios
 
-This repository contains some real test scenarios. 
+This repository contains some real test scenarios and a functional bug's report.
